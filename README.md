@@ -1,6 +1,6 @@
 # HowIStart::Adi
 
-TODO: Write a gem description
+HowIStart is a very simple example gem to show you how I begin a Ruby project.
 
 ## Installation
 
@@ -20,7 +20,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just run the executable:
+
+```
+$how_i_start/Adi
+```
+And it will point you to the article
 
 ## Contributing
 
