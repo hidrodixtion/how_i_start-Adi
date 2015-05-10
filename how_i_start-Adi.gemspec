@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = HowIStart::Adi::VERSION
   spec.authors       = ["Adi Nugroho"]
   spec.email         = ["hidrodixtion@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{A simple gem to do something}
+  spec.description   = %q{A simple gem to do something. I suppowe}
+  spec.homepage      = "http://blog.hidrodixtion.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
@@ -20,4 +20,5 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "minitest", "~> 5.0"
 end
